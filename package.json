@@ -1,0 +1,19 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "Frontend boilerplate for future projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temilolu/UI-boilerplate.git"
+  },
+  "author": "Temitayo Ogunlolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temilolu/UI-boilerplate/issues"
+  },
+  "homepage": "https://github.com/temilolu/UI-boilerplate#readme"
+}
